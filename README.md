@@ -1,9 +1,3 @@
-<style>
-    img {
-        border-radius: 5%;
-    }
-</style>
-
 <img src="res/teste-2.png" alt="drawing"/>
 
 <!--
