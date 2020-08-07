@@ -1,4 +1,4 @@
-<img src="res/teste-2.png" alt="drawing"/>
+<img src="https://i.imgur.com/VL4OBEr.png" alt="drawing"/>
 
 <!--
 **Arekushi/Arekushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
