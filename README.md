@@ -5,3 +5,7 @@ Enthusiastic for technology areas since childhood, learning with each passing da
 
 ## 🎓 Education
 Currently attending high school together as a computer course at ETEC in Guaianazes. Also taking the Java Web Full Stack course at Digital House.
+
+## ⚙️ Experience
+I still don't have experience in the job market, but I already have experience with several development tools and languages, such as: C++, C#, Java, Kotlin, JS, PHP, Python, SQL, MySQL, HTML5, CSS3, Unity.
+Below are some projects I developed.
