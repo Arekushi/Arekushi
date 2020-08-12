@@ -68,14 +68,6 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
 
-<br>
-<br>
-<br>
-
-## 🎲 Status
-<img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=arekushi&show_icons=true&theme=dracula">
-
-
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/alex-ferreira/
 [twitter]: https://twitter.com/Arekushii_
