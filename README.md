@@ -36,7 +36,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="Visual Studio" alt="Visual Studio" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04a27585-0fc2-4410-9b1d-8e251f047df8/d5qnp17-521c36f3-c10a-436b-80d4-aa9ef3f4b2ca.png/v1/fill/w_300,h_300,q_80,strp/visual_studio_2012___windows_startscreen_icon_by_revisionzero_d5qnp17-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0zMDAiLCJwYXRoIjoiXC9mXC8wNGEyNzU4NS0wZmMyLTQ0MTAtOWIxZC04ZTI1MWYwNDdkZjhcL2Q1cW5wMTctNTIxYzM2ZjMtYzEwYS00MzZiLTgwZDQtYWE5ZWYzZjRiMmNhLnBuZyIsIndpZHRoIjoiPD0zMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Cn4C8MCXL9Jcx5vNQcDKSJQWmUggkdc2KdQVqu95EPs">
 
-<img align="left" title="Eclipse" alt="Eclipse" width="30px" src="https://pbs.twimg.com/profile_images/926479521292828672/Ma-pahqu_400x400.jpg">
+<img align="left" title="Eclipse" alt="Eclipse" width="30px" src="https://i.imgur.com/Bt0w6bm.png">
 
 <img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="https://themes.getbootstrap.com/wp-content/uploads/2018/02/Bootstrap-logo.png">
 
