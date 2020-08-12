@@ -44,7 +44,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="TS" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 
-<img align="left" title="Java" alt="Java" width="30px" src="https://i.imgur.com/A94EZor.png">
+<img align="left" title="Java" alt="Java" width="30px" src="https://i.imgur.com/oEhqfDL.png">
 
 <img align="left" title="Kotlin" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 
