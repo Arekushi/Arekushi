@@ -74,3 +74,9 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 [youtube]: https://www.youtube.com/c/arekushi
 [steam]: https://steamcommunity.com/id/arekush1_
 [gamejolt]: https://gamejolt.com/@arekushi
+
+<style>
+img {
+    padding: 5px 5px 5px 5px;
+}
+</style>
