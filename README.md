@@ -38,7 +38,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="Eclipse" alt="Eclipse" width="30px" src="https://pbs.twimg.com/profile_images/926479521292828672/Ma-pahqu_400x400.jpg">
 
-<img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="https://www.zerozetasm.it/14nuovosito/0zsm/img/bootstrap.png">
+<img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
 
 <img align="left" title="JS" alt="JS" width="30px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png">
 
