@@ -26,7 +26,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png">
 
-<img align="left" title="PyCharm" alt="PyCharm" width="30px" src="https://i.imgur.com/BMeUYgt.png">
+<img align="left" title="PyCharm" alt="PyCharm" width="30px" src="https://lh3.googleusercontent.com/proxy/DqFNywnuujunoimhadtFW3UDO78SPjFtOGrS54SfnDkg87j8VGX7ERdkhqgA6hiwHzO9aq0L9f3f7nDqYZX-L4jQqjrpcDKeNwyTrhQ9_GEDk7JenBTShNN8qslKrBflXEZV0io2LtoKKIpr3DcsXg">
 
 <img align="left" title="Android Studio" alt="Android Studio" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
 
