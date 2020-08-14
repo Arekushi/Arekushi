@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Arekushi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Arekushi/static/js/main.1d026130.chunk.js",
+    "main.js.map": "/Arekushi/static/js/main.1d026130.chunk.js.map",
+    "runtime-main.js": "/Arekushi/static/js/runtime-main.a58349ed.js",
+    "runtime-main.js.map": "/Arekushi/static/js/runtime-main.a58349ed.js.map",
+    "static/js/2.d4b96593.chunk.js": "/Arekushi/static/js/2.d4b96593.chunk.js",
+    "static/js/2.d4b96593.chunk.js.map": "/Arekushi/static/js/2.d4b96593.chunk.js.map",
+    "index.html": "/Arekushi/index.html",
+    "precache-manifest.7b78e8346797bde385688dcb405dda7e.js": "/Arekushi/precache-manifest.7b78e8346797bde385688dcb405dda7e.js",
+    "service-worker.js": "/Arekushi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Arekushi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d4b96593.chunk.js.LICENSE.txt": "/Arekushi/static/js/2.d4b96593.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Arekushi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a58349ed.js",
+    "static/js/2.d4b96593.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1d026130.chunk.js"
+  ]
+}
