@@ -50,7 +50,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="Angular" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 
-<img align="left" title="Spring" alt="Spring" width="30px" src="https://symbols.getvecta.com/stencil_96/72_spring-framework-icon.f901b1016d.jpg">
+<img align="left" title="Spring" alt="Spring" width="30px" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png">
 
 <img align="left" title="C#" alt="C#" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png">
 
