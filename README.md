@@ -7,7 +7,7 @@ Enthusiastic for technology areas since childhood, learning with each passing da
 Currently attending high school together as a computer course at ETEC in Guaianazes. Also taking the Java Web Full Stack course at Digital House.
 
 ## ✉️ Social Networks
-[<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png">][linkedIn]
+[<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
 
 [<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/124/124021.png">][twitter]
 
@@ -54,7 +54,7 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 
 <img align="left" title="C#" alt="C#" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png">
 
-<img align="left" title="C++" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img align="left" title="C++" alt="C++" width="30px" src="https://i.imgur.com/rmXe24w.png">
 
 <img align="left" title="HTML5" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg">
 
