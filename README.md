@@ -72,5 +72,5 @@ Currently attending high school together as a computer course at ETEC in Guaiana
 [linkedin]: https://www.linkedin.com/in/alex-ferreira/
 [twitter]: https://twitter.com/Arekushii_
 [youtube]: https://www.youtube.com/c/arekushi
-[steam]: https://steamcommunity.com/id/arekush1_
+[steam]: https://steamcommunity.com/id/arekushii_
 [gamejolt]: https://gamejolt.com/@arekushi
