@@ -1,3 +1,4 @@
+<!-- Image -->
 <img src="https://i.imgur.com/3msHvA7.png"/>
 
 ## 📜 A little about myself
@@ -6,7 +7,7 @@ I have a great appreciation for the areas that involve the use of AI to perform 
 ## 🎓 Education
 Graduated in Computer Science at the technical level by ETEC de Guaianazes, today I find myself in a vast world of things to learn about the world of computing, currently studying at FATEC Ipiranga, the course of Big Data Technology for Business, perfecting my skills as a developer, administrator of data/database and as a business manager.
 
-## ✉️ Social Networks
+## 💬 Social Networks
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
 
 [<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/124/124021.png">][twitter]
