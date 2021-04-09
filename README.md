@@ -7,17 +7,33 @@ I have a great appreciation for the areas that involve the use of AI to perform 
 Graduated in Computer Science at the technical level by ETEC de Guaianazes, today I find myself in a vast world of things to learn about the world of computing, currently studying at FATEC Ipiranga, the course of Big Data Technology for Business, perfecting my skills as a developer, administrator of data/database and as a business manager.
 
 ## ✉️ Social Networks
-[<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
+<!-- LinkedIn -->
+<a target="blank_" href="https://www.linkedin.com/in/alex-ferreira/">
+<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">
+</a>
 
-[<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/124/124021.png">][twitter]
+<!-- Twitter -->
+<a target="blank_" href="https://twitter.com/Arekushii_">
+<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/124/124021.png">
+</a>
 
+<!-- Discord -->
 <img align="left" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/198142ac-f410-423a-bf0b-34c9cb5d9609/dbtif5j-60306864-d6b7-44b6-a9ff-65e8adcfb911.png/v1/fill/w_512,h_512,q_80,strp/discord_metro_icon_by_destuert_dbtif5j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xOTgxNDJhYy1mNDEwLTQyM2EtYmYwYi0zNGM5Y2I1ZDk2MDlcL2RidGlmNWotNjAzMDY4NjQtZDZiNy00NGI2LWE5ZmYtNjVlOGFkY2ZiOTExLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.r0rJ0qqNc9Wo-X9k4MxNxL4lqnJpmRAw9AJGvdI0a7s">
 
-[<img align="left" title="Youtube" alt="Youtube" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTNdibL2sS3UiE5NAbKh5LmhSrwcagr77NJw&usqp=CAU">][youtube]
+<!-- Youtube -->
+<a target="blank_" href="https://www.youtube.com/c/arekushi">
+<img align="left" title="Youtube" alt="Youtube" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTNdibL2sS3UiE5NAbKh5LmhSrwcagr77NJw&usqp=CAU">
+</a>
 
-[<img align="left" title="Steam" alt="Steam" width="30px" src="https://icons-for-free.com/iconfiles/png/512/gamer+gaming+social+social+media+square+steam+icon-1320192620137391650.png">][steam]
+<!-- Steam -->
+<a target="blank_" href="https://steamcommunity.com/id/arekushii_">
+<img align="left" title="Steam" alt="Steam" width="30px" src="https://icons-for-free.com/iconfiles/png/512/gamer+gaming+social+social+media+square+steam+icon-1320192620137391650.png">
+</a>
 
-[<img align="left" title="GameJolt" alt="GameJolt" width="30px" src="https://i.imgur.com/ynax4oB.png">][gamejolt]
+<!-- GameJolt -->
+<a target="blank_" href="https://gamejolt.com/@arekushi">
+<img align="left" title="GameJolt" alt="GameJolt" width="30px" src="https://i.imgur.com/ynax4oB.png">
+</a>
 
 <br>
 
@@ -67,10 +83,3 @@ Graduated in Computer Science at the technical level by ETEC de Guaianazes, toda
 <img align="left" title="Python" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
 
 <img align="left" title="Git" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
-
-<!-- Links -->
-[linkedin]: https://www.linkedin.com/in/alex-ferreira/
-[twitter]: https://twitter.com/Arekushii_
-[youtube]: https://www.youtube.com/c/arekushi
-[steam]: https://steamcommunity.com/id/arekushii_
-[gamejolt]: https://gamejolt.com/@arekushi
