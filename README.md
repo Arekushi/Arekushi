@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/TYoW7Zj.png" />
 
-## 📜 About
-Enthusiastic for technology areas since childhood, learning with each passing day and thinking about efficient ways to apply computer knowledge to the world. The power of technology and information is limitless, and with these two tools we can transform the reality in which we live.
+## 📜 A little about myself
+I have a great appreciation for the areas that involve the use of AI to perform tasks that were previously done by humans, and I seek to learn more and more about this huge universe. I always wanted to know how things were done and how they actually worked, since my childhood my motivation to learn about computing has always increased and I never imagined how complex it is to be a developer, today my knowledge is just a fragment of everything that I will learn in the future.
 
 ## 🎓 Education
-Currently attending high school together as a computer course at ETEC in Guaianazes. Also taking the Java Web Full Stack course at Digital House.
+Graduated in Computer Science at the technical level by ETEC de Guaianazes, today I find myself in a vast world of things to learn about the world of computing, currently studying at FATEC Ipiranga, the course of Big Data Technology for Business, perfecting my skills as a developer, administrator of data/database and as a business manager.
 
 ## ✉️ Social Networks
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
