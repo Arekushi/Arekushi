@@ -57,7 +57,7 @@ Graduated in Computer Science at the technical level by ETEC de Guaianazes, toda
 
 <img align="left" title="C++" alt="C++" width="30px" src="https://i.imgur.com/rmXe24w.png">
 
-<img align="left" title="HTML5" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/svg/1216/1216733.svg">
+<img align="left" title="HTML5" alt="HTML5" width="27px" src="https://www.amantini.me/img/html.png">
 
 <img align="left" title="CSS3" alt="CSS3" width="30px" src="https://www.shareicon.net/data/2015/09/08/97876_css_512x512.png">
 
