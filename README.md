@@ -10,7 +10,7 @@ Graduated in Computer Science at the technical level by ETEC de Guaianazes, toda
 ## 💬 Social Networks
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
 
-[<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/124/124021.png">][twitter]
+[<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://i.imgur.com/jlKtG7w.png">][twitter]
 
 <img align="left" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/198142ac-f410-423a-bf0b-34c9cb5d9609/dbtif5j-60306864-d6b7-44b6-a9ff-65e8adcfb911.png/v1/fill/w_512,h_512,q_80,strp/discord_metro_icon_by_destuert_dbtif5j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xOTgxNDJhYy1mNDEwLTQyM2EtYmYwYi0zNGM5Y2I1ZDk2MDlcL2RidGlmNWotNjAzMDY4NjQtZDZiNy00NGI2LWE5ZmYtNjVlOGFkY2ZiOTExLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.r0rJ0qqNc9Wo-X9k4MxNxL4lqnJpmRAw9AJGvdI0a7s">
 
@@ -71,7 +71,7 @@ Graduated in Computer Science at the technical level by ETEC de Guaianazes, toda
 
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/alex-ferreira/
-[twitter]: https://twitter.com/Arekushii_
+[twitter]: https://twitter.com/arekush1i_
 [youtube]: https://www.youtube.com/c/arekushi
 [steam]: https://steamcommunity.com/id/arekushii_
 [gamejolt]: https://gamejolt.com/@arekushi
