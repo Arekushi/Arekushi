@@ -26,9 +26,9 @@ const alex = {
             course: 'Computer Science Technician',
         },
         {
-            period: '(2021 - Current)'
+            period: '(2021 - Current)',
             university: 'Fatec Ipiranga – Pastor Enéas Tognini',
-            course: 'Big Data Technology for Business',
+            course: 'Big Data Technology for Business'
         }
     ]
 }
