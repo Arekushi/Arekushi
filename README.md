@@ -1,73 +1,131 @@
 <!-- Image -->
-<img src="https://i.imgur.com/3msHvA7.png"/>
+<p target="center">
+    <img src="https://i.imgur.com/rCnRd8Q.png"/>
+</p>
 
-## 📜 A little about myself
+<!-- Hi, i'm Alex -->
+<h2>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Alex
+</h2>
+
 I have a great appreciation for the areas that involve the use of AI to perform tasks that were previously done by humans, and I seek to learn more and more about this huge universe. I always wanted to know how things were done and how they actually worked, since my childhood my motivation to learn about computing has always increased and I never imagined how complex it is to be a developer, today my knowledge is just a fragment of everything that I will learn in the future.
 
-## 🎓 Education
-Graduated in Computer Science at the technical level by ETEC de Guaianazes, today I find myself in a vast world of things to learn about the world of computing, currently studying at FATEC Ipiranga, the course of Big Data Technology for Business, perfecting my skills as a developer, administrator of data/database and as a business manager.
-
-## 💬 Social Networks
-[<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://i.imgur.com/4qOCXGz.png">][linkedIn]
-
-[<img align="left" title="Twitter" alt="Twitter" width="30px" src="https://i.imgur.com/jlKtG7w.png">][twitter]
-
-<img align="left" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/198142ac-f410-423a-bf0b-34c9cb5d9609/dbtif5j-60306864-d6b7-44b6-a9ff-65e8adcfb911.png/v1/fill/w_512,h_512,q_80,strp/discord_metro_icon_by_destuert_dbtif5j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xOTgxNDJhYy1mNDEwLTQyM2EtYmYwYi0zNGM5Y2I1ZDk2MDlcL2RidGlmNWotNjAzMDY4NjQtZDZiNy00NGI2LWE5ZmYtNjVlOGFkY2ZiOTExLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.r0rJ0qqNc9Wo-X9k4MxNxL4lqnJpmRAw9AJGvdI0a7s">
-
-[<img align="left" title="Youtube" alt="Youtube" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTNdibL2sS3UiE5NAbKh5LmhSrwcagr77NJw&usqp=CAU">][youtube]
-
-[<img align="left" title="Steam" alt="Steam" width="30px" src="https://icons-for-free.com/iconfiles/png/512/gamer+gaming+social+social+media+square+steam+icon-1320192620137391650.png">][steam]
-
-[<img align="left" title="GameJolt" alt="GameJolt" width="30px" src="https://i.imgur.com/ynax4oB.png">][gamejolt]
+```ts
+const alex = {
+    age: 20,
+    country: 'Brazil',
+    learning: [
+        '日本語 (Japanese Language)',
+        'Game Development (Unity Engine)',
+        'A.I. (Artificial Intelligence)'
+    ],
+    education: [
+        {
+            period: '(2018 - 2020)',
+            university: 'ETEC de Guaianazes',
+            course: 'Computer Science Technician',
+        },
+        {
+            period: '(2021 - Current)'
+            university: 'Fatec Ipiranga – Pastor Enéas Tognini',
+            course: 'Big Data Technology for Business',
+        }
+    ]
+}
+```
 
 <br>
 
-## ⚙️ Languages and Tools
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw">
+<!-- Social Networks -->
+<h2>
+    <img src="https://i.imgur.com/bvYDTQS.gif" width="50"> Social Networks
+</h2>
 
-<img align="left" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png">
+<p align="center">
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://www.linkedin.com/in/alex-ferreira/">
+        <img style="padding: 10px" title="LinkedIn" alt="LinkedIn" width="40px" src="https://i.imgur.com/4qOCXGz.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://twitter.com/arekush1i_">
+        <img style="padding: 10px" title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/jlKtG7w.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="">
+        <img style="padding: 10px" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="40px" src="https://i.imgur.com/TSkgSUE.jpg">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://www.youtube.com/c/arekushi">
+        <img style="padding: 10px" title="Youtube" alt="Youtube" width="40px" src="https://i.imgur.com/0qrxTFs.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://open.spotify.com/user/22zcdgcfeaspskzbzxuv77eky#_=_">
+        <img style="padding: 10px" title="Spotify" alt="Spotify" width="40px" src="https://i.imgur.com/dOOhNIg.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://gamejolt.com/@arekushi">
+        <img style="padding: 10px" title="GameJolt" alt="GameJolt" width="40px" src="https://i.imgur.com/ZBn5270.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://steamcommunity.com/id/arekushii_">
+        <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/3qObil8.png">
+    </a>
+</p>
 
-<img align="left" title="PyCharm" alt="PyCharm" width="30px" src="https://i.imgur.com/7SsjpgZ.png">
+<!-- Languages and Frameworks -->
+<h2>
+    <img src="https://i.imgur.com/4GLTBRC.gif" width="50"> Languages and Frameworks
+</h2>
+<p align="center">
+    <img style="padding: 10px" title="JS" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+    <img style="padding: 10px" title="TS" alt="TS" width="40PX" src="https://i.imgur.com/vKQaelH.png">
+    <img style="padding: 10px" title="Java" alt="Java" width="40px" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
+    <img style="padding: 10px" title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+    <img style="padding: 10px" title="Python" alt="Python" width="40px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
+    <img style="padding: 10px" title="C#" alt="C#" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png">
+    <img style="padding: 10px" title="C++" alt="C++" width="40px" src="https://i.imgur.com/rmXe24w.png">
+    <img style="padding: 10px" title="PHP" alt="PHP" width="40px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png">
+    <img style="padding: 10px" title="HTML5" alt="HTML5" width="35px" src="https://i.imgur.com/HKyQb5C.png">
+    <img style="padding: 10px" title="CSS3" alt="CSS3" width="40px" src="https://www.shareicon.net/data/2015/09/08/97876_css_512x512.png">
+    <img style="padding: 10px" title="Angular" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+    <img style="padding: 10px" title="Spring" alt="Spring" width="40px" src="https://javapointers.com/wp-content/themes/JavaPointers/img/spring-logo.png">
+    <img style="padding: 10px" title=".NET Core" alt=".NET Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
+    <img style="padding: 10px" title="NestJS" alt="NestJS" width="40px" src="https://i.imgur.com/CYBnkAW.png">
+</p>
 
-<img align="left" title="Android Studio" alt="Android Studio" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
-
-<img align="left" title="Arduino" alt="Arduino" width="30px" src="https://i.imgur.com/8Kilnfn.png">
-
-<img align="left" title="Unity" alt="Unity" width="30px" src="https://gextoneducation.com/wp-content/uploads/2018/08/unity.png">
-
-<img align="left" title="Visual Studio" alt="Visual Studio" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04a27585-0fc2-4410-9b1d-8e251f047df8/d5qnp17-521c36f3-c10a-436b-80d4-aa9ef3f4b2ca.png/v1/fill/w_300,h_300,q_80,strp/visual_studio_2012___windows_startscreen_icon_by_revisionzero_d5qnp17-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0zMDAiLCJwYXRoIjoiXC9mXC8wNGEyNzU4NS0wZmMyLTQ0MTAtOWIxZC04ZTI1MWYwNDdkZjhcL2Q1cW5wMTctNTIxYzM2ZjMtYzEwYS00MzZiLTgwZDQtYWE5ZWYzZjRiMmNhLnBuZyIsIndpZHRoIjoiPD0zMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Cn4C8MCXL9Jcx5vNQcDKSJQWmUggkdc2KdQVqu95EPs">
-
-<img align="left" title="Eclipse" alt="Eclipse" width="30px" src="https://i.imgur.com/Bt0w6bm.png">
-
-<img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="https://pbs.twimg.com/profile_images/1273081551354396672/-Tzadxix_400x400.jpg">
-
-<img align="left" title="JS" alt="JS" width="30px" src="https://www.galvao.eti.br/wp-content/uploads/2017/08/js.png">
-
-<img align="left" title="TS" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-
-<img align="left" title="Java" alt="Java" width="30px" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
-
-<img align="left" title="Kotlin" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-
-<img align="left" title="Angular" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-
-<img align="left" title="Spring" alt="Spring" width="30px" src="https://javapointers.com/wp-content/themes/JavaPointers/img/spring-logo.png">
-
-<img align="left" title="C#" alt="C#" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png">
-
-<img align="left" title="C++" alt="C++" width="30px" src="https://i.imgur.com/rmXe24w.png">
-
-<img align="left" title="HTML5" alt="HTML5" width="27px" src="https://i.imgur.com/HKyQb5C.png">
-
-<img align="left" title="CSS3" alt="CSS3" width="30px" src="https://www.shareicon.net/data/2015/09/08/97876_css_512x512.png">
-
-<img align="left" title="MySQL" alt="MySQL" width="30px" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png">
-
-<img align="left" title="PHP" alt="PHP" width="30px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png">
-
-<img align="left" title="Python" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
-
-<img align="left" title="Git" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
+<!-- Tools -->
+<h2>
+    <img src="https://i.imgur.com/OKP0sEu.gif" width="50"> Tools
+</h2>
+<p align="center">
+    <img style="padding: 10px" title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/qQBe4RN.png">
+    <img style="padding: 10px" title="Visual Studio" alt="Visual Studio" width="40px" src="https://i.imgur.com/GSX80w6.png">
+    <img style="padding: 10px" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png">
+    <img style="padding: 10px" title="PyCharm" alt="PyCharm" width="40px" src="https://i.imgur.com/7SsjpgZ.png">
+    <img style="padding: 10px" title="Android Studio" alt="Android Studio" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
+    <img style="padding: 10px" title="Docker" alt="Docker" width="40px" src="https://i.imgur.com/co51kgn.png">
+    <img style="padding: 10px" title="Arduino" alt="Arduino" width="40px" src="https://i.imgur.com/8Kilnfn.png">
+    <img style="padding: 10px" title="Unity" alt="Unity" width="40px" src="https://gextoneducation.com/wp-content/uploads/2018/08/unity.png">
+    <img style="padding: 10px" title="Eclipse" alt="Eclipse" width="40px" src="https://i.imgur.com/rz5MluG.png">
+    <img style="padding: 10px" title="MySQL" alt="MySQL" width="40px" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png">
+    <img style="padding: 10px" title="MongoDB" alt="MongoDB" width="40px" src="https://i.imgur.com/KFSDwtA.png">
+    <img style="padding: 10px" title="Notion" alt="Notion" width="40px" src="https://i.imgur.com/OcaBxk3.png">
+    <img style="padding: 10px" title="Insomnia" alt="Insomnia" width="40px" src="https://i.imgur.com/e9vxpNa.png">
+</p>
 
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/alex-ferreira/
@@ -75,3 +133,4 @@ Graduated in Computer Science at the technical level by ETEC de Guaianazes, toda
 [youtube]: https://www.youtube.com/c/arekushi
 [steam]: https://steamcommunity.com/id/arekushii_
 [gamejolt]: https://gamejolt.com/@arekushi
+[spotify]: https://open.spotify.com/user/22zcdgcfeaspskzbzxuv77eky#_=_
