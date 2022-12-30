@@ -16,7 +16,7 @@ const alex = {
     country: 'Brazil',
     learning: [
         '日本語 (Japanese Language)',
-        'Game Development (Unity Engine)',
+        'Game Development (Unity/Unreal Engine)',
         'A.I. (Artificial Intelligence)'
     ],
     education: [
@@ -58,7 +58,13 @@ const alex = {
         style="all: unset;"
         target="_blank"
         href="">
-        <img style="padding: 10px" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="40px" src="https://i.imgur.com/TSkgSUE.jpg">
+        <img style="padding: 10px" title="a r e k u s h i#1445" alt="a r e k u s h i#1445" width="40px" src="https://i.imgur.com/WuqAV26.png">
+    </a>
+    <a
+        style="all: unset;"
+        target="_blank"
+        href="https://arekushii.itch.io/">
+        <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/G5oreTv.png">
     </a>
     <a
         style="all: unset;"
@@ -93,18 +99,18 @@ const alex = {
 <p align="center">
     <img style="padding: 10px" title="JS" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
     <img style="padding: 10px" title="TS" alt="TS" width="40PX" src="https://i.imgur.com/vKQaelH.png">
+    <img style="padding: 10px" title="NestJS" alt="NestJS" width="40px" src="https://i.imgur.com/CYBnkAW.png">
+    <img style="padding: 10px" title="HTML5" alt="HTML5" width="35px" src="https://i.imgur.com/HKyQb5C.png">
+    <img style="padding: 10px" title="CSS3" alt="CSS3" width="40px" src="https://www.shareicon.net/data/2015/09/08/97876_css_512x512.png">
     <img style="padding: 10px" title="Java" alt="Java" width="40px" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
     <img style="padding: 10px" title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
     <img style="padding: 10px" title="Python" alt="Python" width="40px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">
+    <img style="padding: 10px" title=".NET Core" alt=".NET Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
     <img style="padding: 10px" title="C#" alt="C#" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png">
     <img style="padding: 10px" title="C++" alt="C++" width="40px" src="https://i.imgur.com/rmXe24w.png">
     <img style="padding: 10px" title="PHP" alt="PHP" width="40px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png">
-    <img style="padding: 10px" title="HTML5" alt="HTML5" width="35px" src="https://i.imgur.com/HKyQb5C.png">
-    <img style="padding: 10px" title="CSS3" alt="CSS3" width="40px" src="https://www.shareicon.net/data/2015/09/08/97876_css_512x512.png">
     <img style="padding: 10px" title="Angular" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
     <img style="padding: 10px" title="Spring" alt="Spring" width="40px" src="https://javapointers.com/wp-content/themes/JavaPointers/img/spring-logo.png">
-    <img style="padding: 10px" title=".NET Core" alt=".NET Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-    <img style="padding: 10px" title="NestJS" alt="NestJS" width="40px" src="https://i.imgur.com/CYBnkAW.png">
 </p>
 
 <!-- Tools -->
@@ -120,10 +126,11 @@ const alex = {
     <img style="padding: 10px" title="Docker" alt="Docker" width="40px" src="https://i.imgur.com/co51kgn.png">
     <img style="padding: 10px" title="Arduino" alt="Arduino" width="40px" src="https://i.imgur.com/8Kilnfn.png">
     <img style="padding: 10px" title="Unity" alt="Unity" width="40px" src="https://gextoneducation.com/wp-content/uploads/2018/08/unity.png">
-    <img style="padding: 10px" title="Eclipse" alt="Eclipse" width="40px" src="https://i.imgur.com/rz5MluG.png">
+    <img style="padding: 10px" title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://i.imgur.com/vWtBRmx.png">
     <img style="padding: 10px" title="MySQL" alt="MySQL" width="40px" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png">
     <img style="padding: 10px" title="MongoDB" alt="MongoDB" width="40px" src="https://i.imgur.com/KFSDwtA.png">
     <img style="padding: 10px" title="Notion" alt="Notion" width="40px" src="https://i.imgur.com/OcaBxk3.png">
+    <img style="padding: 10px" title="Aseprite" alt="Aseprite" width="40px" src="https://i.imgur.com/R6qpi72.png">
     <img style="padding: 10px" title="Insomnia" alt="Insomnia" width="40px" src="https://i.imgur.com/e9vxpNa.png">
 </p>
 
