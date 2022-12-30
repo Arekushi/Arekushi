@@ -51,7 +51,7 @@ const alex = {
     <a
         style="all: unset;"
         target="_blank"
-        href="https://twitter.com/arekush1i_">
+        href="https://twitter.com/arekushii__">
         <img style="padding: 10px" title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/jlKtG7w.png">
     </a>
     <a
