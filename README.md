@@ -71,7 +71,7 @@ const alex = {
         style="all: unset;"
         target="_blank"
         href="https://arekushii.itch.io/">
-        <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/G5oreTv.png">
+        <img style="padding: 10px" title="Itchio" alt="Itchio" width="40px" src="https://i.imgur.com/G5oreTv.png">
     </a>
     <a
         style="all: unset;"
@@ -94,7 +94,7 @@ const alex = {
     <a
         style="all: unset;"
         target="_blank"
-        href="https://steamcommunity.com/id/arekushii_">
+        href="https://steamcommunity.com/id/arekushii">
         <img style="padding: 10px" title="Steam" alt="Steam" width="40px" src="https://i.imgur.com/3qObil8.png">
     </a>
 </p>
