@@ -1,23 +1,27 @@
 <!-- Image -->
 <p target="center">
-    <img src="https://i.imgur.com/rCnRd8Q.png"/>
+    <img src="https://i.imgur.com/KnVrvrq.png"/>
 </p>
 
 <!-- Hi, i'm Alex -->
 <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Alex
+    <img
+        src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
+        width="50"
+    > Hi, I'm Alex
 </h2>
 
 I have a great appreciation for the areas that involve the use of AI to perform tasks that were previously done by humans, and I seek to learn more and more about this huge universe. I always wanted to know how things were done and how they actually worked, since my childhood my motivation to learn about computing has always increased and I never imagined how complex it is to be a developer, today my knowledge is just a fragment of everything that I will learn in the future.
 
 ```ts
 const alex = {
-    age: 20,
+    age: 22,
     country: 'Brazil',
     learning: [
         '日本語 (Japanese Language)',
         'Game Development (Unity/Unreal Engine)',
-        'A.I. (Artificial Intelligence)'
+        'A.I. (Artificial Intelligence)',
+        'Software Engineer'
     ],
     education: [
         {
@@ -38,7 +42,10 @@ const alex = {
 
 <!-- Social Networks -->
 <h2>
-    <img src="https://i.imgur.com/bvYDTQS.gif" width="50"> Social Networks
+    <img
+        src="https://i.imgur.com/bvYDTQS.gif"
+        width="50"
+    > Social Networks
 </h2>
 
 <p align="center">
